@@ -18,20 +18,20 @@ import 'firebase/compat/firestore';
 
 const firebaseConfig = {
 
-    apiKey: "AIzaSyDDloAADV0ZKIF2SMRPtdk45ZkYMZn9Jw8",
+    apiKey: "",
 
-    authDomain: "shreya-article.firebaseapp.com",
+    authDomain: "",
 
-    projectId: "shreya-article",
+    projectId: "",
 
-    storageBucket: "shreya-article.appspot.com",
+    storageBucket: "",
 
-    messagingSenderId: "526042026602",
+    messagingSenderId: "",
 
-    appId: "1:526042026602:web:40a707d70904225ccb3013",
+    appId: "",
 
-    measurementId: "G-L363XP4VV0"
-
+    measurementId: ""
+    //copy these attributes from firebase configs
 };
 
 
