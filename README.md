@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Before running this app, please update config parameters in src/firebase.js .
 
 ## Available Scripts
 
